@@ -54,7 +54,7 @@ namespace Ex3
 
                 IntInput(ref a2, ref flag2, "Дратути. Сколько у вас карт?");
 
-                if (flag2 & a2 >= 0 & a2 <= 11)
+                if (flag2 & a2 > 0 & a2 <= 11)
                 {
                     Console.WriteLine("Валет = J  Дама = Q  Король = K  Туз = T");
 
@@ -78,8 +78,8 @@ namespace Ex3
 
                     Console.WriteLine($"Сумма карт равна {sum}");
                 }
-                else if (a2 < 0)
-                    Console.WriteLine("Число карт не может быть меньше 0");
+                else if (a2 <= 0)
+                    Console.WriteLine("Число карт не может быть меньше 1");
                 else
                     Console.WriteLine("У вас явно перебор");
 

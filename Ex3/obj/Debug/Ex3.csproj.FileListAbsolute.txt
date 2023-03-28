@@ -6,3 +6,11 @@ C:\Users\immor\source\repos\Ex3\Ex3\obj\Debug\Ex3.csproj.SuggestedBindingRedirec
 C:\Users\immor\source\repos\Ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
 C:\Users\immor\source\repos\Ex3\Ex3\obj\Debug\Ex3.exe
 C:\Users\immor\source\repos\Ex3\Ex3\obj\Debug\Ex3.pdb
+C:\Users\immor\Documents\GitHub\Skillbox_c_sharp_ex3\Ex3\bin\Debug\Ex3.exe.config
+C:\Users\immor\Documents\GitHub\Skillbox_c_sharp_ex3\Ex3\bin\Debug\Ex3.exe
+C:\Users\immor\Documents\GitHub\Skillbox_c_sharp_ex3\Ex3\bin\Debug\Ex3.pdb
+C:\Users\immor\Documents\GitHub\Skillbox_c_sharp_ex3\Ex3\obj\Debug\Ex3.csproj.AssemblyReference.cache
+C:\Users\immor\Documents\GitHub\Skillbox_c_sharp_ex3\Ex3\obj\Debug\Ex3.csproj.SuggestedBindingRedirects.cache
+C:\Users\immor\Documents\GitHub\Skillbox_c_sharp_ex3\Ex3\obj\Debug\Ex3.csproj.CoreCompileInputs.cache
+C:\Users\immor\Documents\GitHub\Skillbox_c_sharp_ex3\Ex3\obj\Debug\Ex3.exe
+C:\Users\immor\Documents\GitHub\Skillbox_c_sharp_ex3\Ex3\obj\Debug\Ex3.pdb
